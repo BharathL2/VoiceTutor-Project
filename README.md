@@ -106,7 +106,7 @@ You can easily extend `agents/router_agent.py` to add support for more types of 
 
 ## 📄 License
 
-MIT License © 2025 [Your Name]
+MIT License © 2025 [Bharath L]
 
 ---
 
