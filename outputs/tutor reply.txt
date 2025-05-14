@@ -1,0 +1,10 @@
+
+Query: Gradient Descent in Machine Learning
+
+Explanation: 
+Gradient descent is an optimization algorithm used to minimize the loss function in machine learning. 
+It works by taking small steps in the direction of the steepest descent, which is the negative gradient. 
+At each iteration, it updates the model's parameters to reduce error. Over time, these steps guide the model toward the optimal parameters.
+
+Additional Information: 
+This explanation clarifies how the model iteratively improves by adjusting parameters to minimize errors, making it foundational in many machine learning algorithms.
