@@ -39,7 +39,7 @@ VoiceTutor/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/VoiceTutor.git
+git clone https://github.com/BharathL2/VoiceTutor.git
 cd VoiceTutor
 ```
 
